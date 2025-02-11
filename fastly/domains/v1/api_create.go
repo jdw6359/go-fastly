@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/fastly/go-fastly/v9/fastly"
+	"github.com/jdw6359/go-fastly/v9/fastly"
 )
 
 // CreateInput specifies the information needed for the Create() function to

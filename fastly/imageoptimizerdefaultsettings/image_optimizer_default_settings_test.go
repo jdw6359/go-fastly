@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/fastly/go-fastly/v9/fastly"
-	"github.com/fastly/go-fastly/v9/fastly/products/imageoptimizer"
+	"github.com/jdw6359/go-fastly/v9/fastly"
+	"github.com/jdw6359/go-fastly/v9/fastly/products/imageoptimizer"
 )
 
 // TestClient_ImageOptimizerDefaultSettings tests the Image Optimizer Default Settings API

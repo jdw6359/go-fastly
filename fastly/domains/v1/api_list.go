@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/fastly/go-fastly/v9/fastly"
+	"github.com/jdw6359/go-fastly/v9/fastly"
 )
 
 // ListInput specifies the information needed for the List() function to perform

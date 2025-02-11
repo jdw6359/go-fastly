@@ -4,7 +4,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/fastly/go-fastly/v9/fastly"
+	"github.com/jdw6359/go-fastly/v9/fastly"
 )
 
 func TestClient_ComputeACL(t *testing.T) {

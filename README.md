@@ -9,7 +9,7 @@ A Go client library for interacting with most facets of the [Fastly API](https:/
 ## Usage
 
 ```go
-import "github.com/fastly/go-fastly/v9/fastly"
+import "github.com/jdw6359/go-fastly/v9/fastly"
 ```
 
 ## Reference
@@ -19,4 +19,4 @@ import "github.com/fastly/go-fastly/v9/fastly"
 - [EXAMPLES.md](./EXAMPLES.md)
 - [TESTING.md](./TESTING.md)
 
-[latest]: https://pkg.go.dev/github.com/fastly/go-fastly/v9/fastly
+[latest]: https://pkg.go.dev/github.com/jdw6359/go-fastly/v9/fastly

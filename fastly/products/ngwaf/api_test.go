@@ -3,10 +3,10 @@ package ngwaf_test
 import (
 	"testing"
 
-	"github.com/fastly/go-fastly/v9/fastly"
-	"github.com/fastly/go-fastly/v9/fastly/products/ngwaf"
-	"github.com/fastly/go-fastly/v9/internal/productcore"
-	"github.com/fastly/go-fastly/v9/internal/test_utils"
+	"github.com/jdw6359/go-fastly/v9/fastly"
+	"github.com/jdw6359/go-fastly/v9/fastly/products/ngwaf"
+	"github.com/jdw6359/go-fastly/v9/internal/productcore"
+	"github.com/jdw6359/go-fastly/v9/internal/test_utils"
 
 	"github.com/stretchr/testify/require"
 )

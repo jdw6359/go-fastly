@@ -3,11 +3,11 @@ package domaininspector_test
 import (
 	"testing"
 
-	"github.com/fastly/go-fastly/v9/fastly"
-	"github.com/fastly/go-fastly/v9/fastly/products"
-	"github.com/fastly/go-fastly/v9/fastly/products/domaininspector"
-	"github.com/fastly/go-fastly/v9/internal/productcore"
-	"github.com/fastly/go-fastly/v9/internal/test_utils"
+	"github.com/jdw6359/go-fastly/v9/fastly"
+	"github.com/jdw6359/go-fastly/v9/fastly/products"
+	"github.com/jdw6359/go-fastly/v9/fastly/products/domaininspector"
+	"github.com/jdw6359/go-fastly/v9/internal/productcore"
+	"github.com/jdw6359/go-fastly/v9/internal/test_utils"
 )
 
 var serviceID = fastly.TestDeliveryServiceID

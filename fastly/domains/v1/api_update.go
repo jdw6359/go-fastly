@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/fastly/go-fastly/v9/fastly"
+	"github.com/jdw6359/go-fastly/v9/fastly"
 )
 
 // UpdateInput specifies the information needed for the Update() function to

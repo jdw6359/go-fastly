@@ -3,8 +3,8 @@ package productcore
 import (
 	"testing"
 
-	"github.com/fastly/go-fastly/v9/fastly/products"
-	"github.com/fastly/go-fastly/v9/internal/test_utils"
+	"github.com/jdw6359/go-fastly/v9/fastly/products"
+	"github.com/jdw6359/go-fastly/v9/internal/test_utils"
 	"github.com/stretchr/testify/require"
 )
 

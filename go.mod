@@ -1,4 +1,4 @@
-module github.com/fastly/go-fastly/v9
+module github.com/jdw6359/go-fastly/v9
 
 require (
 	github.com/dnaeon/go-vcr v1.2.0
@@ -25,5 +25,3 @@ require (
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-go 1.20

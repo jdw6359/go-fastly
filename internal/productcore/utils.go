@@ -1,6 +1,6 @@
 package productcore
 
-import "github.com/fastly/go-fastly/v9/fastly"
+import "github.com/jdw6359/go-fastly/v9/fastly"
 
 func makeURL(productID, serviceID string, subComponents []string) string {
 	path := []string{"enabled-products", "v1", productID}
